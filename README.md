@@ -1,5 +1,5 @@
 I'm a software engineer who is focusing on building experience and learning new skills.<br />
-[Linkedin](https://www.linkedin.com/in/vladyslav-horbachenko/)<br />
+🏕️ [Linkedin](https://www.linkedin.com/in/vladyslav-horbachenko/)<br />
 🏕️ Working from home <br />
 🦾 Tech Skills:<br />
 🖥️ React, Redux, JavaScript, LESS/SASS, HTML, CSS, Apollo Client, Ant Design<br />
