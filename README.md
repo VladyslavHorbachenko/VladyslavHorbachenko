@@ -1,16 +1,11 @@
-### Hi there 👋
+I'm a software engineer who is focusing on building experience and learning new skills.
+Formerly a mechanical engineer with 12 years of experience tackling technical issues.
 
-<!--
-**VladyslavHorbachenko/VladyslavHorbachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on EcoSoap Bank
-- 🌱 I’m currently learning Full Stack Web Developer
-- 👯 I’m looking to collaborate on Full Stack Developer Team
-- 🤔 I’m looking for help with 
-- 💬 Ask me about anythink you want. 
-- 📫 How to reach me: vladgorbachenko123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
--->
+🏕️ Working from home
+🇱 LinkedIn
+📜 Resume
+🦾 Tech Skills:
+🖥️ React, Redux, JavaScript, LESS/SASS, HTML, CSS, Apollo Client, Ant Design
+💽 Knex, Express, PostgreSQL, SQLite3, SQL, NodeJS
+🧪 Supertest, cypress.io, React Testing Library, Jest
+🛠️ Linux/Ubuntu, Remote Work, Python3, Git/GitHub Version Control
