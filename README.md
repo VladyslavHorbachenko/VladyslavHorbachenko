@@ -1,6 +1,6 @@
 Expert knowledge of software QA methodologies, automated testing tools, frameworks, and processes. Proficient expertise in API and Database Testing .<br />
 🔥 [Lambda school graduate certificate](https://www.youracclaim.com/badges/e2b21953-02b3-46a8-8eb5-e6ba0a6540db)<br />
-🦾  [Linkedin] (Full Stack Software Development Engineer in Test of Web and Mobile Applications with 4+ years of professional experience)<br />
+🦾 Full Stack Software Development Engineer in Test of Web and Mobile Applications with 4+ years of professional experience<br />
 🏕️ [Linkedin](https://www.linkedin.com/in/vladhorbachenko/)<br />
 🏕️ Working from home  <br />
 🦾 Tech Skills:<br />
